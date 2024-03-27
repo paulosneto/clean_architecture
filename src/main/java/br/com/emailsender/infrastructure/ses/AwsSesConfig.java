@@ -15,7 +15,7 @@ public class AwsSesConfig {
     }
 
     // falta configurar a conta aws no site da amazon para habilitar a função de envio de email
-    // https://youtu.be/eFgeO9M9lLw    - orientação
+   
 }
 
 
